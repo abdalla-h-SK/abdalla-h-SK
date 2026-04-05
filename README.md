@@ -1,4 +1,4 @@
-##👋 Hi, I'm Abdallah Shaalan
+👋 Hi, I'm Abdallah Shaalan
 💻 Backend Developer | Software Engineer
 
 Passionate about building scalable backend systems and APIs.
