@@ -1,16 +1,44 @@
-##👋 Hi, I'm Abdallah Shaalan
-##💻 Backend Developer | Software Engineer
+# 👋 Hi, I'm Abdallah Shaalan  
+### 💻 Backend Developer | Software Engineer  
 
-##Passionate about building scalable backend systems and APIs.
+Passionate about building scalable backend systems, designing clean APIs, and solving complex problems.
 
-##🛠️ Tech Stack & Skills
-##Languages: Python, Java
-##Frameworks: Spring Boot, flask
-##Databases: PostgreSQL, MySQL, MongoDB
-##Tools: Git-GitHub, Postman, AI, Docker, CI/CD
-##Other: RESTful APIs, Third-Party Integrations, Testing, MVC, Frontend , OOP, DSA, Problem Solving
-##🌐 Connect with Me
-##https://www.linkedin.com/in/sh-abdallah/
+---
+
+## 🛠️ Tech Stack & Skills  
+
+**Languages**  
+- Python  
+- Java  
+
+**Frameworks**  
+- Spring Boot  
+- Flask  
+
+**Databases**  
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+
+**Tools & Technologies**  
+- Git & GitHub  
+- Docker  
+- Postman  
+- CI/CD  
+
+**Core Concepts**  
+- RESTful APIs  
+- MVC Architecture  
+- OOP  
+- Data Structures & Algorithms  
+- Problem Solving  
+- Testing  
+- Third-Party Integrations  
+
+---
+
+## 🌐 Connect with Me  
+- LinkedIn: https://www.linkedin.com/in/sh-abdallah/
 
 <!--
 **abdalla-h-SK/abdalla-h-SK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
